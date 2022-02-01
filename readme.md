@@ -13,4 +13,3 @@ Surprise Library - http://surpriselib.com/
 scikit-learn: https://scikit-learn.org/stable/
 
 Follwed tutorials from [here](https://github.com/mxie87/Beer_Recommender_CF)  and [here](https://github.com/ameyakarnad/BeerPersonalization)
-# beer_recommendation_system
